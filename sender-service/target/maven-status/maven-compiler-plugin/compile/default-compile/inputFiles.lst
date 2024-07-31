@@ -1,8 +1,0 @@
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\config\RestTemplateConfig.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\config\WebClientConfig.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\controller\RestTemplateController.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\controller\WebClientController.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\exception\GlobalExceptionHandler.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\model\Student.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\response\ErrorResponse.java
-D:\Workspace\Springboot\sender-service\src\main\java\com\techietact\tutorial\SenderServiceApplication.java
